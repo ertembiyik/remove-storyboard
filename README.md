@@ -1,1 +1,1 @@
-# remove-storyboard
+# remove-storyboard-script
